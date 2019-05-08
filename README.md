@@ -1,6 +1,7 @@
 # CSRF-Synchronizer-Token-Pattern
 
 Username : admin
+
 Password : admin
 
 How to run the application
@@ -10,4 +11,5 @@ How to run the application
 4. Open your browser.
 5. Enter the following in URL bar.
   https://localhost/CSRF-Synchronizer-Token-Pattern/
+  
   http://localhost/CSRF-Synchronizer-Token-Pattern/
